@@ -1,0 +1,3 @@
+com\example\weatherapp\WeatherappApplication.class
+com\example\weatherapp\controller\WeatherCtrl.class
+com\example\weatherapp\service\WeatherSvc.class
